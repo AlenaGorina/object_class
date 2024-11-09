@@ -1,0 +1,20 @@
+body {
+  max-width: 1600px;
+  width: 100%;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(196, 210, 238);
+  border-radius: 1%;
+}
+
+div {
+    margin-left: 120px;
+    padding: 20px;
+}
